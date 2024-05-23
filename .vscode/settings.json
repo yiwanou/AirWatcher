@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "*.embeddedhtml": "html",
+    "iosfwd": "cpp",
+    "istream": "cpp",
+    "vector": "cpp",
+    "__split_buffer": "cpp",
+    "string": "cpp",
+    "ios": "cpp"
+  }
+}
